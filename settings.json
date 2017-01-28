@@ -1,3 +1,4 @@
+//WARNING NEVER POST A SLACK_TOKEN OR ANY OTHER AUTH TOKEN FOR THAT MATTER TO GITHUB
 {
-  "slackToken": "xoxp-5031014540-5031014550-5052739907-1ac4a6"
+  "slackToken": "xoxp-xxxxxxxxxxx-xxxxxxxxxxx-xxxxxxxxxxx-xxxxxxxxxxx"
 }
